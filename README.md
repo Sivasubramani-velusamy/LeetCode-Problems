@@ -32,4 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
