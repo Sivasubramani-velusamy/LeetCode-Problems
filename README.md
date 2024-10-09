@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,4 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
