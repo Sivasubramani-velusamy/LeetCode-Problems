@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
@@ -20,5 +21,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Sivasubramani-velusamy/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
